@@ -1,0 +1,116 @@
+.navbar{
+    width: 100%;
+}
+.navbar a{
+    width: 8%;
+    font-size: medium;
+}
+.port{
+    /* padding-top: 50%; */
+    /* margin-top: 100px; */
+    padding-right:30%;
+    z-index: 5;
+    margin-right: 8%;
+}
+.hp-dp{
+  display: none; 
+}
+.ph-dp{
+    height: 280px;
+    width:280px;
+    border-radius: 100%;
+    border: 2px solid yellow;
+    background-image: url(payal\ das\ dp2.jpg);
+    background-size: 100% 100%;
+    margin-left:5.5%;
+    margin-top: 5%;
+    box-shadow: 8px 8px 8px rgb(81, 202, 209);
+}
+.panel{
+    margin-top: 30px;
+}
+
+.about-main{
+    display: flex;
+    flex-direction: column;
+    margin-right:15px;
+    
+}
+.about-main h4{
+    text-align: start;
+    font-weight: 400;
+
+}
+
+.about-dp{
+    height: 280px;
+    width:280px;
+    border: 4px solid yellow;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.educational-bar{
+    height: 300px;
+    width: 300px;
+    font-size:small;
+    overflow: hidden;
+    padding-top: 0%;
+    border-radius: 0%;
+    box-shadow: 25px 25px 25px rgba(0,0, 0, 0.5);
+}
+.techincal-bar{
+    height: 300px;
+    width: 300px;
+    font-size:small;
+    border-radius: 0%;
+    box-shadow: 25px 25px 25px rgba(0,0, 0, 0.5);  
+}
+.TB{
+    font-size: small;
+    
+ } 
+.EB{
+     font-size: small; 
+ }
+.tat{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.con{
+   padding-top:15%;
+   margin-bottom:15%;
+   height: 400px;
+   width: 300px;
+   box-shadow: 25px 25px 25px rgba(0,0, 0, 0.5);
+}
+.form-group{
+ padding-bottom: 10%;
+}
+#cnt{
+    font-size: large;
+}
+.contact-form{
+    height: 400px;
+    width: 300px;
+    /* padding-right: 5%; */
+    padding-top: 25%;
+     margin-right: 50px;
+    box-shadow: 25px 25px 25px rgba(0,0, 0, 0.5);
+}
+#ctc-p{
+    font-weight:200;
+    font-size: small;
+}
+.btn{
+    height:80px;
+    width: 60px;
+    margin-bottom: 45px;
+}
+
+
